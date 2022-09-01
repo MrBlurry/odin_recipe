@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 44;
+    font-family: fantasy;
+    font-weight: bold;
+}
+p{
+    color: purple;
+    text-align: center;
+    background-color: gray;
+    font-size: 24px;
+}
