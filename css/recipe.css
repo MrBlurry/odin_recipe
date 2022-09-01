@@ -1,0 +1,31 @@
+body{
+    background-color: #181717;
+    color: white;
+    text-align: center;
+}
+#dish{
+    align-self: center;
+}
+h1{
+    font-size: 44;
+    font-family: fantasy;
+    font-weight: bold;
+}
+h2{
+    font-size: 34px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+li{
+    text-align: left;
+}
+p{
+    font-size: 24px;
+}
+#back{
+    color: red;
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}

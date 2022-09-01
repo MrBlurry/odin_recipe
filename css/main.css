@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #181717;
     color: white;
 }
 h1{
@@ -11,6 +11,5 @@ h1{
 p{
     color: purple;
     text-align: center;
-    background-color: gray;
     font-size: 24px;
 }
